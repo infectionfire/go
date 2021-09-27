@@ -1,1 +1,1 @@
-#Изучение golang по курсу на сайте stepik.org
+# Изучение golang по курсу на сайте stepik.org
